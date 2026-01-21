@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/plumeriafarm.jpeg
 title: "Molokai Plumarias"
 date: 2025 - Present
 published: false
