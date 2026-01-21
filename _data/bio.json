@@ -1,113 +1,175 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tyler Unger",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/ungert.png",
+    "email": "ungert@hawaii.edu",
+    "phone": "",
+    "website": "https://ungert.github.io",
+    "summary": "I am studying for a B.S. in Computer Science: Data Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2027.",
+    "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ungert", "url": "https://github.com/ungert" },
+      { "network": "linkedin", "username": "ungert", "url": "https://www.linkedin.com/in/tylerdunger/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Data Analysis" },
+    { "name": "Gaming" },
+    { "name": "Reading" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Eclipse", "Git/GitHub", "Visual Studios Code" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Hawaii",
+      "area": "Computer Science: Data Science (expected Fall, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "January 2024",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Wayland Baptist University",
+      "area": "Masters of Theological Studies (expected Spring, 2030)",
+      "studyType": "MTS",
+      "startDate": "October 2021",
+      "endDate": "May 2030",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Pearl Harbor Naval Shipyard Training Facility",
+      "area": "Certificate of Completion in Electrical and Mechanical Engineering",
+      "studyType": "",
+      "startDate": "January 2022",
+      "endDate": "March 2022",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Liberty University",
+      "area": "Biblical and Theological Studies (Graduated Summa Cum Laude)",
+      "studyType": "B.S.",
+      "startDate": "August 2018",
+      "endDate": "May 2021",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Naval Submarine School (BESS)",
+      "area": "Certificate of Completion - Sonar Systems, Oceanography and Sonar",
+      "studyType": "",
+      "startDate": "January 2013",
+      "endDate": "January 2014",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Pearl Harbor Naval Shipyard & IMF",
+      "position": "Engineering Technician",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "March 2022",
+      "endDate": "January 2024",
+      "summary": "Deenergize, depressurize, drain and isolate high energy systems in United States Submarines to ensure the safety of shipyard personnel",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Leads testing and troubleshooting hardware components and systems, including preparing, maintaining, and upholding procedures for logging, reporting, and statistically monitoring of submarine systems.",
+        "Accurately documents instances of hardware failure, repair, installation, and removal.",
+        "Supports development and implementation of new projects and new hardware installations, including servers, electrical panels, etc.",
+        "Installs, configures, tests, maintains, monitors, and troubleshoots new technological hardware and supports interconnected networking systems.",
+        "Performs on-site analysis, diagnosis, and resolution of complex mechanical and electrical problems for core projects, and recommends and implements corrective solutions, including off-site repair as needed.",
+        "Facilitates successful engineering and mechanical processes (depressurizing, de-energizing, dewatering, and lockout/tagouts) to ensure critical safety of workforce and multi-million dollar equipment."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Alternate Energy Inc.",
+      "position": "Apprentice Electrician",
+      "website": "",
+      "startDate": "September 2021",
+      "endDate": "March 2022",
+      "summary": "Install solar pannels and associated systems.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Trained under master electrician across public and private spaces to identify, analyze, troubleshoot, and assist with repairs of equipment and electrical faults.",
+        "Interpreted blueprints, schematics, and completed electrical installations while carrying out various maintenance duties..",
+        "Communicated with clients in a professional, courteous manner at all times.",
+        "Collaborated with construction workers, roofers, and other crew members."
+      ]
+    },
+    {
+      "company": "US Navy",
+      "position": "Safety Engineering Administrator",
+      "website": "",
+      "startDate": "June 2018",
+      "endDate": "August 2021",
+      "summary": "Facilitated successful engineering and mechanical processes to ensure critical safety of workforce and multi-million dollar equipment.",
+      "highlights": [
+        "Successfully managed and deployed the administration of 4,000+ submarine systems standards of operation and procedures.",
+        "Coordinated essential maintenance jobs with cross-functional leadership teams and workforce to ensure successful completion of projects.",
+        "Mentored and developed two dozen personnel to gain required competencies to enhance multiple cross-functional projects, resulting in successful maintenance and long-term success.",
+        "Interpreting blueprints and schematics."
+      ]
+    },
+    {
+      "company": "US Navy",
+      "position": "Sonar Technician Submarines",
+      "website": "",
+      "startDate": "November 2012",
+      "endDate": "June 2018",
+      "summary": "Ensure the safe operation and navigation of the submarine utilizing the onboard Sonar equipment",
+      "highlights": [
+        "Maintain, repair, calibrate, tune and adjust all electronic equipment used for underwater surveillance and scientific data collection.",
+        "Support operation and basic maintenance of underwater surveillance and scientific data collection systems.",
+        "Perform organizational and intermediate level maintenance on underwater surveillance and scientific data collection systems, equipment and associated combat control systems test equipment.",
+        "Operate & test underwater surveillance and scientific data collection systems."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "North Shore Christian Fellowship",
+      "website": "https://nscf.church",
+      "position": "Youth Leader",
+      "startDate": "January 2021",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Assist the youth pastor in running youth group",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "North Shore Christian Fellowship",
+      "website": "https://nscf.church",
+      "position": "Planning Center Coordinator",
+      "startDate": "January 2021",
+      "endDate": "August 2021",
+      "summary": "Implement and coordinate the efficient use of Church planning apploications",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
