@@ -4,7 +4,7 @@ type: project
 image: img/hospital.jpeg
 title: "Hospital Patient Management System"
 date: 2025
-published: true
+published: false
 labels:
   - C++
 summary: "For a class I was required to write a program for a Hospital Paitent Management System"
