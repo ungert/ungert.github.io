@@ -7,7 +7,7 @@ date: 2025
 published: true
 labels:
   -C++
-summary: "In the process of a project implementing a logic system that will authenticate orders for Plumaria Farms."
+summary: "For a class I was required to write a program for a Hospital Paitent Management System"
 ---
 
 
