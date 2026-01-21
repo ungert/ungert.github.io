@@ -4,7 +4,7 @@ type: project
 image: img/plumeriafarm.jpeg
 title: "Molokai Plumarias"
 date: 2025 - Present
-published: false
+published: true
 labels:
   - Shopify
   - Java
