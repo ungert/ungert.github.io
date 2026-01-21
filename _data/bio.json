@@ -34,7 +34,7 @@
       "institution": "University of Hawaii at Manoa",
       "area": "Computer Science: Data Science (expected Fall, 2027)",
       "studyType": "B.S.",
-      "startDate": "January 2024",
+      "startDate": "2024-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,8 +43,8 @@
       "institution": "Wayland Baptist University",
       "area": "Masters of Theological Studies (expected Spring, 2030)",
       "studyType": "MTS",
-      "startDate": "October 2021",
-      "endDate": "May 2030",
+      "startDate": "2021-08",
+      "endDate": "2030-05",
       "courses": [
       ]
     },
@@ -52,8 +52,8 @@
       "institution": "Pearl Harbor Naval Shipyard Training Facility",
       "area": "Certificate of Completion in Electrical and Mechanical Engineering",
       "studyType": "",
-      "startDate": "January 2022",
-      "endDate": "March 2022",
+      "startDate": "2022-01",
+      "endDate": "2022-03",
       "courses": [
       ]
     },
@@ -61,8 +61,8 @@
       "institution": "Liberty University",
       "area": "Biblical and Theological Studies (Graduated Summa Cum Laude)",
       "studyType": "B.S.",
-      "startDate": "August 2018",
-      "endDate": "May 2021",
+      "startDate": "2018-08",
+      "endDate": "2021-05",
       "courses": [
       ]
     },
@@ -70,8 +70,8 @@
       "institution": "Naval Submarine School (BESS)",
       "area": "Certificate of Completion - Sonar Systems, Oceanography and Sonar",
       "studyType": "",
-      "startDate": "January 2013",
-      "endDate": "January 2014",
+      "startDate": "2013-01",
+      "endDate": "2014-01",
       "courses": [
       ]
     }
@@ -81,8 +81,8 @@
       "company": "Pearl Harbor Naval Shipyard & IMF",
       "position": "Engineering Technician",
       "website": "",
-      "startDate": "March 2022",
-      "endDate": "January 2024",
+      "startDate": "2022-03",
+      "endDate": "2024-01",
       "summary": "Deenergize, depressurize, drain and isolate high energy systems in United States Submarines to ensure the safety of shipyard personnel",
       "highlights": [
         "Leads testing and troubleshooting hardware components and systems, including preparing, maintaining, and upholding procedures for logging, reporting, and statistically monitoring of submarine systems.",
@@ -97,8 +97,8 @@
       "company": "Alternate Energy Inc.",
       "position": "Apprentice Electrician",
       "website": "",
-      "startDate": "September 2021",
-      "endDate": "March 2022",
+      "startDate": "2021-01",
+      "endDate": "2022-03",
       "summary": "Install solar pannels and associated systems.",
       "highlights": [
         "Trained under master electrician across public and private spaces to identify, analyze, troubleshoot, and assist with repairs of equipment and electrical faults.",
@@ -111,8 +111,8 @@
       "company": "US Navy",
       "position": "Safety Engineering Administrator",
       "website": "",
-      "startDate": "June 2018",
-      "endDate": "August 2021",
+      "startDate": "2018-06",
+      "endDate": "2021-08",
       "summary": "Facilitated successful engineering and mechanical processes to ensure critical safety of workforce and multi-million dollar equipment.",
       "highlights": [
         "Successfully managed and deployed the administration of 4,000+ submarine systems standards of operation and procedures.",
@@ -125,8 +125,8 @@
       "company": "US Navy",
       "position": "Sonar Technician Submarines",
       "website": "",
-      "startDate": "November 2012",
-      "endDate": "June 2018",
+      "startDate": "2012-11",
+      "endDate": "2018-06",
       "summary": "Ensure the safe operation and navigation of the submarine utilizing the onboard Sonar equipment",
       "highlights": [
         "Maintain, repair, calibrate, tune and adjust all electronic equipment used for underwater surveillance and scientific data collection.",
@@ -141,7 +141,7 @@
       "organization": "North Shore Christian Fellowship",
       "website": "https://nscf.church",
       "position": "Youth Leader",
-      "startDate": "January 2021",
+      "startDate": "2021-01",
       "endDate": "Present",
       "summary": "Assist the youth pastor in running youth group",
       "highlights": [
@@ -151,8 +151,8 @@
       "organization": "North Shore Christian Fellowship",
       "website": "https://nscf.church",
       "position": "Planning Center Coordinator",
-      "startDate": "January 2021",
-      "endDate": "August 2021",
+      "startDate": "2021-01",
+      "endDate": "2021-08",
       "summary": "Implement and coordinate the efficient use of Church planning applications",
       "highlights": [
       ]
