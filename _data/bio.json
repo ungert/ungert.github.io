@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Eclipse", "Git/GitHub", "Visual Studios Code" ]
+      "keywords": [ "MacOS", "Eclipse", "Git/GitHub", "Visual Studio Code" ]
     }
   ],
   "education": [
@@ -102,7 +102,7 @@
       "summary": "Install solar pannels and associated systems.",
       "highlights": [
         "Trained under master electrician across public and private spaces to identify, analyze, troubleshoot, and assist with repairs of equipment and electrical faults.",
-        "Interpreted blueprints, schematics, and completed electrical installations while carrying out various maintenance duties..",
+        "Interpreted blueprints, schematics, and completed electrical installations while carrying out various maintenance duties.",
         "Communicated with clients in a professional, courteous manner at all times.",
         "Collaborated with construction workers, roofers, and other crew members."
       ]
@@ -153,25 +153,12 @@
       "position": "Planning Center Coordinator",
       "startDate": "January 2021",
       "endDate": "August 2021",
-      "summary": "Implement and coordinate the efficient use of Church planning apploications",
+      "summary": "Implement and coordinate the efficient use of Church planning applications",
       "highlights": [
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
+  "awards": [],
   "references": [
     {
       "name": "Available upon request"
