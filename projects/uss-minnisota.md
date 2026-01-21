@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/ussminnisota.jpeg
 title: "USS Minnisota"
 date: 2022
 published: false
