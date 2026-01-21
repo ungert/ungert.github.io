@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: "USS Montana"
+title: "USS Minnisota"
 date: 2022
 published: false
 labels:
