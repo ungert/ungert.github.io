@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Building a Foundation in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-20
+date: 2026-01-20
 published: true
 labels:
   - Software Engineering
