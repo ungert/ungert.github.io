@@ -8,6 +8,9 @@ published: true
 labels:
   - Software Engineering
 ---
+
+<img width="200px" src="../img/Programing.jpeg" class="img-thumbnail" >
+
 ## Why I Am Interested in Software Engineering:
 
 I am interested in software engineering because it combines problem solving logical thinking and the ability to build tools that can have a real impact on everyday life. As a computer science student I am motivated by the idea of learning practical skills that can lead to a stable and rewarding career. Software engineering interests me not just as a specific area of study but as a field that values adaptability and continuous learning. I want to understand how software is created improved and maintained over time rather than only focusing on getting a program to work once.
