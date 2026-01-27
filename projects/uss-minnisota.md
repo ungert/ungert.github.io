@@ -14,3 +14,4 @@ summary: "My team successfully and safely executed the work controls for the USS
 The USS Minnesota went into dry dock for a scheduled maintenance period. For the duration of the maintence period, my team executed work controls de-energizing, depressurizing, draining, and isolating high energy systems to esnure the safety of shipyard personnel.
 
 
+<img width="200px" src="../img/ussminnisota.jpeg" class="img-thumbnail" >
