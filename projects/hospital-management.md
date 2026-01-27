@@ -10,6 +10,7 @@ labels:
 summary: "For a class I was required to write a program for a Hospital Paitent Management System"
 ---
 
+<img width="200px" src="../img/hospital.jpeg" class="img-thumbnail" >
 
 This program implements a menu-driven hospital patient management system in C++ using a fixed-size array of structs. It allows users to add new patients, search for patients by ID, and view all stored patient records. Each patient record includes an ID, name, age, illness, and gender, with strict validation to ensure IDs are unique and positive, ages are within a valid range, and genders match allowed values. The program uses helper functions to safely handle user input and prevent crashes from invalid entries. The system runs continuously until the user chooses to quit from the menu.
 Here is some code that illustrates the program:
