@@ -11,7 +11,7 @@ labels:
 summary: "In the process of a project implementing a logic system that will authenticate orders for Plumaria Farms."
 ---
 
-
+  <img width="200px" src="../img/plumeriafarm.jpeg" class="img-thumbnail" >
 
 Molokai Plumerias is a farm that provides a large amount of plumerias throughout the United States. I am in the process of writing code for a logic system that will place, store, and authenticate oders. The unique challenge of this program is accounting for a rotating and depreciating inventory, while also constrained by the order's originating location.
 Here is some code that illustrates how we are verifiying orders:
