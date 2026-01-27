@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/plumeriafarm.jpeg
-title: "Molokai Plumarias"
+title: "Molokai Plumerias"
 date: 2025 - Present
 published: true
 labels:
@@ -118,3 +118,4 @@ public class RevalidationService {
     }
 }
 ```
+
