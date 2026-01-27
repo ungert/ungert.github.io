@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" src="../img/TypeScript.jpeg" class="img-thumbnail" >
+<img width="200px" class="rounded float-start pe-4" src="../img/TypeScript.jpeg">
 
 ## Learning TypeScript:
 
