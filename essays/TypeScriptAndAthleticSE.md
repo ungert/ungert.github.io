@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/TypeScript.jpeg">
-
 ## Learning TypeScript:
 
 As someone who is still fairly new to coding, my experience with TypeScript has been more positive than I had expected. I have taken a few classes that used Java, C, or C++, so I was not completely unfamiliar with programming concepts, but I would still consider myself a beginner overall. TypeScript does not feel drastically different from those languages and because of that, it feels like a natural step forward rather than something entirely new or overwhelming.
