@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Asking Questions
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/programing.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/AskQuestions.jpeg">
 
 ## Why Asking Smart Questions Matters in Software Engineering
 
