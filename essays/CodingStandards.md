@@ -18,8 +18,10 @@ If I could implement only one software engineering technique to improve quality,
 ## ESLint and Immediate Feedback: 
 
 Using ESLint in VSCode feels like having a quiet reviewer watching every line. It highlights potential issues immediately. For example, unused variables often signal incomplete logic: 
-	const result = calculateTotal(items); 
-	// ESLint warns if result is never used 
+
+const result = calculateTotal(items); 
+// ESLint warns if result is never used
+
 Without ESLint, that mistake might go unnoticed. After fixing those small errors repeatedly, I noticed that I started to make those errors less frequently. 
 
 ## The Not So Hidden Benefit:
