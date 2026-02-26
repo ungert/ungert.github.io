@@ -8,7 +8,7 @@ published: true
 labels:
   - Bootstrap 5
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/Standards.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Bootstrap5Website.jpeg">
 
 ## Why Learn Something So Complicated?
 UI frameworks are not simple. Learning Bootstrap 5 can feel almost like learning a new programming language layered on top of HTML and CSS. There are grids, breakpoints, utility classes, and component systems to understand. The leverage it provides over raw HTML and CSS is what makes it beneficial. Bootstrap is not just a styling tool. It is a system. It packages responsive design, spacing logic, and layout structure into reusable patterns. Instead of reinventing layout rules every time, Bootstrap provides a reliable consistent framework.
