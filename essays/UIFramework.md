@@ -31,6 +31,6 @@ Bootstrap also changes how someone would think about layout. Instead of designin
 From a software engineering perspective, Bootstrap provides standardization, reusable components, faster development, and easier collaboration. Although the learning curve and the frustration is real, once internalized, development becomes faster and cleaner.
 
 ## Worth the Investment?
-UI frameworks are not about laziness. They are about abstraction and scalability. Bootstrap allows focus on functionality and user experience instead of constantly debugging layout. The time investment upfront pays off in long-term maintainability and speed. In the end, Bootstrap is not just a CSS library. It is a framework for building interfaces at scale.
+UI frameworks are not about laziness. They are about abstraction and scalability. Bootstrap allows focus on functionality and user experience instead of constantly debugging layout. The time investment upfront pays off in long term maintainability and speed. In the end, Bootstrap is not just a CSS library. It is a framework for building interfaces at scale.
 
 
