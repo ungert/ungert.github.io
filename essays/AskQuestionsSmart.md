@@ -4,7 +4,7 @@ type: essay
 title: "How to Ask Questions the Smart Way"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-29
-published: true
+published: false
 labels:
   - Software Engineering
   - Asking Questions
