@@ -43,7 +43,7 @@ Overall, Cycle5ense helped me understand software engineering as more than just 
 
 You can view the project source code and organization page here:
 
-[Cycle5ense GitHub Organization](https://github.com/cycle5ense)
+[Cycle5ense GitHub Organization](https://cycle5ense.github.io/)
 
 You can view the deployed application here:
 
