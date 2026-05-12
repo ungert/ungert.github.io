@@ -4,7 +4,7 @@ type: project
 image: img/ussminnisota.jpeg
 title: "USS Minnesota"
 date: 2022
-published: true
+published: false
 labels:
   - Technical Drawings
   - Electrical and Mechanical Engineering
