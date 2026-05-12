@@ -22,15 +22,27 @@
 	{ "name": "Cooking"}
   ],
   "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Eclipse", "Git/GitHub", "Visual Studio Code" ]
-    }
-  ],
+  {
+    "name": "Programming Languages",
+    "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "HTML", "CSS" ]
+  },
+  {
+    "name": "Web Development",
+    "keywords": [ "React", "Next.js", "React Bootstrap", "Bootstrap", "Leaflet", "Responsive UI Design" ]
+  },
+  {
+    "name": "Databases and Backend",
+    "keywords": [ "PostgreSQL", "Prisma", "NextAuth", "Server Actions", "Authentication", "Database Schema Design" ]
+  },
+  {
+    "name": "Software Engineering Tools",
+    "keywords": [ "Git", "GitHub", "GitHub Desktop", "Vercel", "ESLint", "VSCode", "npm", "Playwright" ]
+  },
+  {
+    "name": "Software Engineering Practices",
+    "keywords": [ "Agile Project Management", "Issue Driven Project Management", "Coding Standards", "Design Patterns", "Functional Programming", "Code Review", "Debugging" ]
+  }
+],
   "education": [
     {
       "institution": "University of Hawaii at Manoa",
