@@ -11,7 +11,7 @@ labels:
   - ICS314
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ai.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/AIUsage.jpeg">
 
 ## Introduction:
 
